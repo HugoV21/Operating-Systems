@@ -37,5 +37,11 @@
 - Accelerated Computing 
 - Storage Optimized
 
+### Four Pillars Of AWS Cost Optimization 
+1. Right size - CPU, Memory, Storage
+2. Increase Elasticity 
+3. Leverage the right pricing model
+4. Optimize Storage
+
 
 
